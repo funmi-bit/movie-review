@@ -1,0 +1,39 @@
+nav{
+    display:flex;
+    background-color:black;
+}
+a{
+    color: white;
+}
+.explore{
+    padding-left:400px;
+}
+.tv{
+    padding-left:500px;
+}
+.section1{
+    display:flex;
+}
+button{
+    background-color:red;
+    width:180px;
+    color: white;
+    font-size:larger;
+}
+.socialMedia{
+    display:flex;
+}
+.media1{
+    padding-left: 700px;
+}
+.media2{
+    padding-left: 10px;
+}
+.media3{
+    padding-left: 10px;
+}
+.form{
+    margin:30px;
+}
+
+
